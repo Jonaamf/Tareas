@@ -1,0 +1,47 @@
+.fondo-blanco{
+    background-color: white;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Reloj_de_flores_y_banderas_en_la_Plaza_de_los_Fundadores.JPG/1024px-Reloj_de_flores_y_banderas_en_la_Plaza_de_los_Fundadores.JPG);
+    background-size: cover;
+    
+}
+
+.sobre-mi{
+    background-color: rgb(140, 140, 227);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.imagen-cv{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fondo-h1{
+    background-color: gray;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+.subtitulos{
+    background-color: gray;
+    font-weight: bold;
+    color: white;
+}
+.datos-1{
+    font-weight: bold;
+    font-style: italic;
+}
+.footer-centrado{
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+.fondo-dos{
+    background-color: antiquewhite;
+}
+.texto{
+    font-weight: bold;
+    color: black;
+}
